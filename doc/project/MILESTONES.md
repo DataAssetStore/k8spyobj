@@ -1,4 +1,4 @@
-# July 3 [cathy,sam]
+# July 3 [Cathy,Sam]
 
 - setup poetry
 - make example/simply.py run
