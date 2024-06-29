@@ -1,4 +1,4 @@
-# Week of July 1 [cathy,sam]
+# July 3 [cathy,sam]
 
 - setup poetry
 - make example/simply.py run
