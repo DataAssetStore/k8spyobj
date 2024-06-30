@@ -1,14 +1,18 @@
 from k8spyobj import *
 
-class Address:
+class Address(K8spyobj):
   street: str
   city: str
 
-class Customer: 
+class Employee(K8spyobj): 
   first: str
   last: str
 
   address: Address
+
+class Company(K8spyobj):
+  addresses = list[Address]
+  employees = list[Employee]
 
 if __name__ == '__main__':
 
