@@ -1,3 +1,5 @@
+from k8spyobj import *
+
 class Address:
   street: str
   city: str
